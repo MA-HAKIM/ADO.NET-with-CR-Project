@@ -1,0 +1,16 @@
+CREATE TABLE [dbo].[Trainees] (
+    [TraineeId]   INT             NOT NULL,
+    [TraineeName] NVARCHAR (40)   NOT NULL,
+    [Email]       NVARCHAR (30)   NOT NULL,
+    [Picture]     VARBINARY (MAX) NOT NULL,
+    PRIMARY KEY CLUSTERED ([TraineeId] ASC)
+)
+CREATE TABLE [dbo].[Courses] (
+    [CourseId]   INT          NOT NULL,
+    [CourseName] NVARCHAR (40) NOT NULL,
+    [Admit]      DATE         NOT NULL,
+    [TraineeId]  INT          NOT NULL,
+    PRIMARY KEY CLUSTERED ([CourseId] ASC),
+    FOREIGN KEY ([TraineeId]) REFERENCES [dbo].[Trainees] ([TraineeId])
+)
+Go
