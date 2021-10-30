@@ -86,6 +86,7 @@ namespace Trainee_Course
             // 
             // Tpic
             // 
+            this.Tpic.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.Tpic.Location = new System.Drawing.Point(278, 31);
             this.Tpic.Name = "Tpic";
             this.Tpic.Size = new System.Drawing.Size(120, 127);

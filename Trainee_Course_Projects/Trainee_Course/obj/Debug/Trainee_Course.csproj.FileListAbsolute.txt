@@ -187,3 +187,38 @@ E:\ESAD-45\Projects\CRProjects\11_1259332\Trainee_Course_Projects\Trainee_Course
 E:\ESAD-45\Projects\CRProjects\11_1259332\Trainee_Course_Projects\Trainee_Course\obj\Debug\Trainee_Course.csproj.CopyComplete
 E:\ESAD-45\Projects\CRProjects\11_1259332\Trainee_Course_Projects\Trainee_Course\obj\Debug\Trainee_Course.exe
 E:\ESAD-45\Projects\CRProjects\11_1259332\Trainee_Course_Projects\Trainee_Course\obj\Debug\Trainee_Course.pdb
+E:\ESAD-45\Projects\GitHub\ADO.Net with CR\Trainee_Course_Projects\Trainee_Course\bin\Debug\TraineeCourseDB.mdf
+E:\ESAD-45\Projects\GitHub\ADO.Net with CR\Trainee_Course_Projects\Trainee_Course\bin\Debug\TraineeCourseDB_log.ldf
+E:\ESAD-45\Projects\GitHub\ADO.Net with CR\Trainee_Course_Projects\Trainee_Course\bin\Debug\Trainee_Course.exe.config
+E:\ESAD-45\Projects\GitHub\ADO.Net with CR\Trainee_Course_Projects\Trainee_Course\bin\Debug\Trainee_Course.exe
+E:\ESAD-45\Projects\GitHub\ADO.Net with CR\Trainee_Course_Projects\Trainee_Course\bin\Debug\Trainee_Course.pdb
+E:\ESAD-45\Projects\GitHub\ADO.Net with CR\Trainee_Course_Projects\Trainee_Course\bin\Debug\AxShockwaveFlashObjects.dll
+E:\ESAD-45\Projects\GitHub\ADO.Net with CR\Trainee_Course_Projects\Trainee_Course\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\ESAD-45\Projects\GitHub\ADO.Net with CR\Trainee_Course_Projects\Trainee_Course\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\ESAD-45\Projects\GitHub\ADO.Net with CR\Trainee_Course_Projects\Trainee_Course\bin\Debug\CrystalDecisions.Shared.dll
+E:\ESAD-45\Projects\GitHub\ADO.Net with CR\Trainee_Course_Projects\Trainee_Course\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\ESAD-45\Projects\GitHub\ADO.Net with CR\Trainee_Course_Projects\Trainee_Course\bin\Debug\ShockwaveFlashObjects.dll
+E:\ESAD-45\Projects\GitHub\ADO.Net with CR\Trainee_Course_Projects\Trainee_Course\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\ESAD-45\Projects\GitHub\ADO.Net with CR\Trainee_Course_Projects\Trainee_Course\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\ESAD-45\Projects\GitHub\ADO.Net with CR\Trainee_Course_Projects\Trainee_Course\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\ESAD-45\Projects\GitHub\ADO.Net with CR\Trainee_Course_Projects\Trainee_Course\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\ESAD-45\Projects\GitHub\ADO.Net with CR\Trainee_Course_Projects\Trainee_Course\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\ESAD-45\Projects\GitHub\ADO.Net with CR\Trainee_Course_Projects\Trainee_Course\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\ESAD-45\Projects\GitHub\ADO.Net with CR\Trainee_Course_Projects\Trainee_Course\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\ESAD-45\Projects\GitHub\ADO.Net with CR\Trainee_Course_Projects\Trainee_Course\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\ESAD-45\Projects\GitHub\ADO.Net with CR\Trainee_Course_Projects\Trainee_Course\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\ESAD-45\Projects\GitHub\ADO.Net with CR\Trainee_Course_Projects\Trainee_Course\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\ESAD-45\Projects\GitHub\ADO.Net with CR\Trainee_Course_Projects\Trainee_Course\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\ESAD-45\Projects\GitHub\ADO.Net with CR\Trainee_Course_Projects\Trainee_Course\bin\Debug\stdole.dll
+E:\ESAD-45\Projects\GitHub\ADO.Net with CR\Trainee_Course_Projects\Trainee_Course\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\ESAD-45\Projects\GitHub\ADO.Net with CR\Trainee_Course_Projects\Trainee_Course\obj\Debug\Trainee_Course.Form1.resources
+E:\ESAD-45\Projects\GitHub\ADO.Net with CR\Trainee_Course_Projects\Trainee_Course\obj\Debug\Trainee_Course.Form2.resources
+E:\ESAD-45\Projects\GitHub\ADO.Net with CR\Trainee_Course_Projects\Trainee_Course\obj\Debug\Trainee_Course.Form3.resources
+E:\ESAD-45\Projects\GitHub\ADO.Net with CR\Trainee_Course_Projects\Trainee_Course\obj\Debug\Trainee_Course.Properties.Resources.resources
+E:\ESAD-45\Projects\GitHub\ADO.Net with CR\Trainee_Course_Projects\Trainee_Course\obj\Debug\Trainee_Course.ReportForm.resources
+E:\ESAD-45\Projects\GitHub\ADO.Net with CR\Trainee_Course_Projects\Trainee_Course\obj\Debug\Trainee_Course.csproj.GenerateResource.cache
+E:\ESAD-45\Projects\GitHub\ADO.Net with CR\Trainee_Course_Projects\Trainee_Course\obj\Debug\Trainee_Course.csproj.CoreCompileInputs.cache
+E:\ESAD-45\Projects\GitHub\ADO.Net with CR\Trainee_Course_Projects\Trainee_Course\obj\Debug\Trainee_Course.csproj.CopyComplete
+E:\ESAD-45\Projects\GitHub\ADO.Net with CR\Trainee_Course_Projects\Trainee_Course\obj\Debug\Trainee_Course.exe
+E:\ESAD-45\Projects\GitHub\ADO.Net with CR\Trainee_Course_Projects\Trainee_Course\obj\Debug\Trainee_Course.pdb
+E:\ESAD-45\Projects\GitHub\ADO.Net with CR\Trainee_Course_Projects\Trainee_Course\obj\Debug\Trainee_Course.csprojAssemblyReference.cache

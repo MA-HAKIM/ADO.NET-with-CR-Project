@@ -49,7 +49,8 @@ namespace Trainee_Course
             daCourses.Fill(ds, "Courses");
             ds.Tables["Trainees"].PrimaryKey = new DataColumn[] { ds.Tables["Trainees"].Columns["TraineeId"] };
             ds.Tables["Courses"].PrimaryKey = new DataColumn[] { ds.Tables["Courses"].Columns["CourseId"] };
-            DataRelation rel = new DataRelation("FK_TR_CS", ds.Tables["Trainees"].Columns["TraineeId"], ds.Tables["Courses"].Columns["TraineeId"]);
+            DataRelation rel = new DataRelation("FK_TR_CS", ds.Tables["Trainees"].Columns["TraineeId"], 
+                ds.Tables["Courses"].Columns["TraineeId"]);
             ds.Relations.Add(rel);
         }
 
@@ -140,6 +141,14 @@ namespace Trainee_Course
             this.daCourses.Update(ds.Tables["Courses"]);
             ds.Tables["Courses"].AcceptChanges();
         }
+
+        private void button8_Click(object sender, EventArgs e)
+        {
+            bsCourses.EndEdit();
+            daCourses.Update(ds.Tables["Courses"]);
+            ds.Tables["Courses"].AcceptChanges();
+        }
+
 
         private void button1_Click(object sender, EventArgs e)
         {
